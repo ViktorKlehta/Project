@@ -1,0 +1,32 @@
+
+//.col {
+    border:2px solid red;
+}
+.container {
+    border:2px solid red;
+}
+.bols {
+    border:2px solid red;
+}
+.sbok {
+    border-left: 5px solid coral;
+    font-size: 10px;
+}
+a {
+    text-decoration: none;
+    color: coral;
+}
+body {
+    background: url('video.png');
+    background-size: cover;
+  }
+  
+  .bgvideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    width: auto;
+    height: auto;
+    z-index: -9999;
+  }
